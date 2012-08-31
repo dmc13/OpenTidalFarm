@@ -1,0 +1,2 @@
+generate_site:
+	jekyll
