@@ -29,6 +29,7 @@ For additional features such as bathymetry support, enforcing a minimum/maximum 
 Example
 ========
 The following video demonstrates how OpenTidalFarm optimises 32 turbines in an idealised tidal stream.
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/ng3bbso-vGk" frameborder="0">Video</iframe>
 
 Getting started
 ===============
