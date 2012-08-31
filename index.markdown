@@ -4,8 +4,9 @@ layout: default
 
 About OpenTidalFarm 
 ===================
-OpenTidalFarm is a layout optimisation software for tidal turbines.
+OpenTidalFarm is a layout optimisation software for tidal turbine farms.
 
+Problem 
 
 Accurate simulations
 
@@ -15,13 +16,18 @@ It is open source software can be downloaded and used for free.
 
 Features 
 ========
-* Shallow water model for flow prediction
+* High resolution shallow water model for accurate flow prediction
+* Arbitrary shoreline data
 * Optimization for power output
-* Site constraints / Minimum distance between turbines
+* Site constraints / minimum distance between turbines
 * Up to multiple hundered turbines
 
+For additional features such as bathymetry support, enforcing a minimum/maximum turbine installation depth and cable costs please [contact me](#contact). 
+ 
 Examples
 ========
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/ng3bbso-vGk" frameborder="0">
+</iframe>
 
 Getting started
 ===============
@@ -33,17 +39,21 @@ which need to be downloaded first.
 Next, you can [download OpenTidalFarm](https://github.com/funsim/OpenTidalFarm/zipball/master) and extract it.
 Open a terminal and change into the extracted directory.
 Then run
-'source export\_path.sh'
+
+`source export_path.sh`
+
 to include the required libraries to you system path.
 
 Now you are ready to run one of the many examples in the examples/ folder.
 
-
-Contact
+Contact 
 =======
-For questions please contact Simon W. Funke <s.funke09@imperial.ac.uk>.
+<a id="contact"> </a>
+For questions and support please contact Simon W. Funke <s.funke09@imperial.ac.uk>.
 
 
 Licence
 =======
-The OpenTidalFarm is an open source project that can be freely used under the `GNU GPL versin 3 <http://www.gnu.org/licenses/gpl.html>` licence.
+The OpenTidalFarm is an open source project that can be freely used under the 
+[GNU GPL version 3](http://www.gnu.org/licenses/gpl.html)
+licence.
