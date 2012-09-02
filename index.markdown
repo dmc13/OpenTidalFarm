@@ -11,7 +11,7 @@ Simulations show that the optimal positioning can increase the power generation 
 and can therefore determine the viability of a project.
  
 However, finding the optimal layout is a difficult process due to the complex flow interactions.
-OpenTidalFarm solves this problem by applying an efficient optimisating algorithm onto a accurate 
+OpenTidalFarm solves this problem by applying an efficient optimisation algorithm onto a accurate 
 flow prediction model.
 
 OpenTidalFarm is open source software and can be downloaded and used for free.
@@ -29,7 +29,8 @@ For additional features such as bathymetry support, enforcing a minimum/maximum 
 Example
 ========
 The following video demonstrates how OpenTidalFarm optimises 32 turbines in an idealised tidal stream.
-[Go to Video.](http://www.youtube.com/embed/ng3bbso-vGk?wmode=opaque)
+<iframe class="youtube-player" type="text/html" width="640" height="385" src="http://www.youtube.com/embed/ng3bbso-vGk" frameborder="0">
+</iframe>
 
 Getting started
 ===============
